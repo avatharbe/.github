@@ -11,12 +11,17 @@ phpBB extensions and styles for gaming guild communities.
 | [bbGuild](https://github.com/avatharbe/bbguild) | Guild management for phpBB — roster, portal, multi-game support |
 | [bbGuild WoW](https://github.com/avatharbe/bbguild_wow) | World of Warcraft game plugin with Battle.net API integration |
 | [bbDKP](https://github.com/avatharbe/bbDKP) | DKP point system for raid loot distribution (in development) |
-| [PBWoW3style](https://github.com/avatharbe/PBWoW3style) | World of Warcraft theme for phpBB |
-| [PBTech](https://github.com/avatharbe/PBTech) | Technology-themed phpBB style |
 | [RecentTopics](https://github.com/avatharbe/RecentTopics) | Recent topics display for phpBB |
 | [BreadcrumbMenu](https://github.com/avatharbe/BreadcrumbMenu) | add breadcrumb navigation for your forum |
-
 | [PostLove](https://github.com/avatharbe/postlove) | Post rating / like system |
+| [QuickReply](https://github.com/avatharbe/QuickReply) | show BBCode and smiles in quick reply |
+
+| Styles | Description |
+|-----------|-------------|
+| [PBWoW3style](https://github.com/avatharbe/PBWoW3style) | World of Warcraft theme for phpBB |
+| [PBTech](https://github.com/avatharbe/PBTech) | Technology-themed phpBB style |
+| [Tavern](https://github.com/avatharbe/Tavern) | Subsilver2 phpBB style in cozy brown |
+
 
 ## Game Plugins
 bbGuild supports multiple games through separate plugin extensions:
