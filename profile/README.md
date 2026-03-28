@@ -18,7 +18,6 @@ phpBB extensions and styles for gaming guild communities.
 | [QuickReply](https://github.com/avatharbe/QuickReply) | show BBCode and smiles in quick reply |
 | [QuickStyle](https://github.com/avatharbe/QuickStyle) | lets visitors quickly switch board styles |
 
-https://github.com/avatharbe/QuickStyle
 
 | Styles | Description |
 |-----------|-------------|
