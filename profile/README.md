@@ -15,7 +15,7 @@ phpBB extensions and styles for gaming guild communities.
 | [BreadcrumbMenu](https://github.com/avatharbe/BreadcrumbMenu) | add breadcrumb navigation for your forum |
 | [QuickLogin](https://github.com/avatharbe/QuickLogin) | adds a simple quick login popup lightbox using JavaScript |
 | [PostLove](https://github.com/avatharbe/postlove) | Post rating / like system |
-| [QuickReply](https://github.com/avatharbe/QuickReply) | show BBCode and smiles in quick reply |
+| [QuickReply](https://github.com/avatharbe/QuickReply) | shows BBCode and smiles in quick reply |
 | [QuickStyle](https://github.com/avatharbe/QuickStyle) | lets visitors quickly switch board styles |
 
 
