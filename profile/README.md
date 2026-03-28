@@ -1,6 +1,7 @@
 # Avathar
 
 phpBB extensions and styles for gaming guild communities.
+
 [Forum](https://www.avathar.be/forum) — Community
 
 ## Projects
