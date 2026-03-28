@@ -14,6 +14,8 @@ phpBB extensions and styles for gaming guild communities.
 | [PBWoW3style](https://github.com/avatharbe/PBWoW3style) | World of Warcraft theme for phpBB |
 | [PBTech](https://github.com/avatharbe/PBTech) | Technology-themed phpBB style |
 | [RecentTopics](https://github.com/avatharbe/RecentTopics) | Recent topics display for phpBB |
+| [BreadcrumbMenu](https://github.com/avatharbe/BreadcrumbMenu) | add breadcrumb navigation for your forum |
+
 | [PostLove](https://github.com/avatharbe/postlove) | Post rating / like system |
 
 ## Game Plugins
