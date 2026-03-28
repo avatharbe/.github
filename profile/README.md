@@ -6,7 +6,7 @@ phpBB extensions and styles for gaming guild communities.
 
 ## Projects
 
-- [Kanban Board](https://github.com/orgs/avatharbe/projects/1) — issue tracking across all repositories
+- [Kanban Board](https://github.com/orgs/avatharbe/projects/1) — issue tracking
 
 ## Core Extensions
 
