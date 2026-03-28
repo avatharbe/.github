@@ -1,5 +1,3 @@
-# Avathar
-
 phpBB extensions and styles for gaming guild communities.
 - [Avathar.be Forum Community](https://www.avathar.be/forum)
 - [Kanban Board](https://github.com/orgs/avatharbe/projects/1) — issue tracking
