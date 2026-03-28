@@ -13,6 +13,7 @@ phpBB extensions and styles for gaming guild communities.
 | [bbDKP](https://github.com/avatharbe/bbDKP) | DKP point system for raid loot distribution (in development) |
 | [RecentTopics](https://github.com/avatharbe/RecentTopics) | Recent topics display for phpBB |
 | [BreadcrumbMenu](https://github.com/avatharbe/BreadcrumbMenu) | add breadcrumb navigation for your forum |
+| [QuickLogin](https://github.com/avatharbe/QuickLogin) | adds a simple quick login popup lightbox using JavaScript |
 | [PostLove](https://github.com/avatharbe/postlove) | Post rating / like system |
 | [QuickReply](https://github.com/avatharbe/QuickReply) | show BBCode and smiles in quick reply |
 
