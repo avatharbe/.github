@@ -16,6 +16,9 @@ phpBB extensions and styles for gaming guild communities.
 | [QuickLogin](https://github.com/avatharbe/QuickLogin) | adds a simple quick login popup lightbox using JavaScript |
 | [PostLove](https://github.com/avatharbe/postlove) | Post rating / like system |
 | [QuickReply](https://github.com/avatharbe/QuickReply) | show BBCode and smiles in quick reply |
+| [QuickStyle](https://github.com/avatharbe/QuickStyle) | lets visitors quickly switch board styles |
+
+https://github.com/avatharbe/QuickStyle
 
 | Styles | Description |
 |-----------|-------------|
