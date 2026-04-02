@@ -8,9 +8,12 @@ phpBB extensions and styles for gaming guild communities.
 |-----------|-------------|
 | [bbGuild](https://github.com/avatharbe/bbguild) | Guild management for phpBB — roster, portal, multi-game support |
 | [bbGuild WoW](https://github.com/avatharbe/bbguild_wow) | World of Warcraft game plugin with Battle.net API integration |
+| [pbWoWext](https://github.com/avatharbe/pbwowext) | Extension for phpBB to enhance the PBWoW 3 style with additional functionality. |
 | [bbDKP](https://github.com/avatharbe/bbDKP) | DKP point system for raid loot distribution (in development) |
 | [RecentTopics](https://github.com/avatharbe/RecentTopics) | Recent topics display for phpBB |
 | [RankPostStyling](https://github.com/avatharbe/RankPostStyling) | lets you assign a CSS class to each special rank. The class wraps the user's posts, search results, and profile view, allowing you to style them however you like — custom colors, backgrounds, images, etc.|
+
+
 | [BreadcrumbMenu](https://github.com/avatharbe/BreadcrumbMenu) | add breadcrumb navigation for your forum |
 | [QuickLogin](https://github.com/avatharbe/QuickLogin) | adds a simple quick login popup lightbox using JavaScript |
 | [PostLove](https://github.com/avatharbe/postlove) | Post rating / like system |
