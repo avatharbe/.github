@@ -17,6 +17,7 @@ phpBB extensions and styles for gaming guild communities.
 | [PostLove](https://github.com/avatharbe/postlove) | Post rating / like system |
 | [QuickReply](https://github.com/avatharbe/QuickReply) | shows BBCode and smiles in quick reply |
 | [QuickStyle](https://github.com/avatharbe/QuickStyle) | lets visitors quickly switch board styles |
+| [bbPatreon](https://github.com/avatharbe/bbPatreon) | phpBB - Patreon integration |
 
 
 | Styles | Description |
