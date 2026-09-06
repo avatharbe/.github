@@ -6,6 +6,8 @@ Open-source phpBB extensions and styles built for gaming guild communities.
 - [Live demo](https://www.avathar.be/demoforum/app.php/guild) — explore bbGuild on a demo board
 - [Project board](https://github.com/orgs/avatharbe/projects/1) — follow development and issue tracking
 
+- [Support Avathar on Patreon](https://www.patreon.com/cw/avathar/membership) — help fund hosting and ongoing development
+
 ---
 
 ## bbGuild — guild management for phpBB
