@@ -8,6 +8,8 @@ Open-source phpBB extensions and styles built for gaming guild communities.
 
 - [Support Avathar on Patreon](https://www.patreon.com/cw/avathar/membership) — help fund hosting and ongoing development
 
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=FH8YHQN5UVUVW)
+
 ---
 
 ## bbGuild — guild management for phpBB
