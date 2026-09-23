@@ -13,6 +13,7 @@ Open-source phpBB extensions and styles built for gaming guild communities.
 ---
 
 ## bbGuild — guild management for phpBB
+<img width="400" height="146" alt="bbguild-small" src="https://github.com/user-attachments/assets/b2ab2868-cdfe-4020-add0-71003e7e68bd" />
 
 Want to see it in action? Visit the [live demo board](https://www.avathar.be/demoforum/app.php/guild).
 
